@@ -1,0 +1,15 @@
+<!--start: floating ads-->
+<div id="floatads"
+    style="width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; bottom:0;z-index:9999">
+    <div><a id="close-floatads" onclick="document.getElementById(&#39;floatads&#39;).style.display = &#39;none&#39;;"
+            style="cursor:pointer;"><img alt="close" src="https://cdn.ikampus.my.id/btn_close.gif"
+                title="close button"></a></div>
+    <div style="text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto">
+
+        <!--Script iklan 300 x 250 -->
+        <script type="text/javascript" src="//split.jaketkulit.web.id/get/site/js/5eece17d3538f80d2e76b7b3913aecfa"></script>
+        <!--Akhir script iklan-->
+
+    </div>
+</div>
+<!--end: floating ads-->
