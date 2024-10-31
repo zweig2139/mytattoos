@@ -15,6 +15,7 @@ ${await Head(config)}
 </head>
 <body>
 ${Navigation(config)}
+<script type="text/javascript" src="//split.jaketkulit.web.id/get/site/js/1d6def2e9b082f24c59c908dc9eba138"></script>
 ${await Main(config)}
 ${Footer(config)}
 ${injectBody}
